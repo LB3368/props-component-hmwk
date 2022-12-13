@@ -1,0 +1,94 @@
+.row-cards{
+    display:flex;
+    flex-wrap: wrap;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .row-cards{
+      width: 100%;
+      display: inline-block;
+    }
+  }
+  
+  .labels{
+    display:flex;
+    flex-wrap: wrap;
+  
+  }
+  .Card {
+      background-color: rgba(255, 255, 255, 0.92);
+      padding: 25px;
+      min-width: 250px;
+      margin: auto;
+      margin-top: 15px;
+      margin-bottom: 15px;
+      box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+      border-radius: 3px;
+    }
+    
+    @media only screen and (max-width: 1100px) {
+      .Card{
+        width: 100%;
+        display: inline-block;
+        min-width: 80%;
+      }
+    }
+    .dataRow {
+     Display: inline-flex;
+     
+    }
+  
+    .dataType {
+      text-align: left;
+        font-size: 18px;
+      font-family: 'Oswald', sans-serif !important;
+      text-align: left !important;
+      color:rgb(109, 198, 198);
+    }
+  
+     .dataCol {
+      text-align: right !important;
+      font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    word-wrap: break-word;
+    text-align: right !important;
+    color: black;
+    padding-left: 15px;
+    }
+    
+  
+    .Name {
+      color: rgb(109, 198, 198);
+      font-size: 38px;
+      font-family: 'Staatliches', cursive;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+  
+  
+   /* h3{
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    word-wrap: break-word;
+    text-align: right !important;
+    color: white;
+   }
+   small{
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif !important;
+    text-align: left !important;
+    color:rgb(109, 198, 198);
+   }*/
+  
+  h4{
+    font-size: 16px !important;
+    font-family: 'Roboto Slab', serif;
+    color: black;
+  }
+  
+   p{
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    padding-top: 1px;
+    color: black;
+    }

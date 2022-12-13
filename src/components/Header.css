@@ -1,0 +1,36 @@
+.header {
+    padding: 25px, 25px;
+    min-height: 8vh;
+    height: 175px;
+    margin-bottom: 50px;
+  }
+
+  
+  .title {
+    align-items: center;
+    justify-content: center;
+    font-family: 'Staatliches', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    letter-spacing: 6px;
+  }
+
+  @media only screen and (max-width: 992px) {
+    .title{
+      font-size: 55px;
+    }
+  }
+
+  
+  h2{
+    padding-top: 25px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+  }

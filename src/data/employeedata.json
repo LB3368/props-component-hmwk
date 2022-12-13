@@ -1,0 +1,164 @@
+[
+    {
+      "firstName": "Darth",
+      "lastName": "Vader",
+      "role": "Supreme Leader",
+      "pronouns": "He/Him",
+      "email": "anakinskywalker1@gmail.com",
+      "since": 2009,
+      "workPlace": "In Office"
+    },
+    {
+      "firstName": "Hilary",
+      "lastName": "Duff",
+      "role": "CFO",
+      "pronouns": "She/Her",
+      "email": "Duff@email.com",
+      "since": 2002,
+      "workPlace": "Remote"
+    },
+    {
+      "firstName": "Simeon",
+      "lastName": "Scott",
+      "role": "Operations Director",
+      "pronouns": "She/Her",
+      "email": "Boss@crouty.com",
+      "workPlace": "In Office",
+      "since": 2013
+    },
+    {
+      "firstName": "Katie",
+      "lastName": "Perry",
+      "role": "Frontend Designer",
+      "pronouns": "She/Her",
+      "email": "KTQ@TheBigQ.com",
+      "workPlace": "Remote",
+      "since": 2018
+    },
+    {
+      "firstName": "Brenda",
+      "lastName": "Bowden",
+      "role": "Human Resource",
+      "pronouns": "She/Her",
+      "email": "BEEEEEB@lilcat.com",
+      "workPlace": "In Office",
+      "since": 2020
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Anderson",
+      "role": "Marketing",
+      "pronouns": "They/Them",
+      "email": "Alex.Johnson@email.com",
+      "workPlace": "Remote",
+      "since": 1999
+    },
+    {
+      "firstName": "Suzanne",
+      "lastName": "Sapphire",
+      "role": "Contractor",
+      "pronouns": "She/Her",
+      "email": "SOOOOZ@cats.com",
+      "workPlace": "In Office",
+      "since": 1985
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "McCallister",
+      "role": "Strategic Management",
+      "pronouns": "He/Him",
+      "email": "Alone@home.com",
+      "workPlace": "Remote",
+      "since": 1990
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "role": "Photographer",
+      "pronouns": "He/Him",
+      "email": "Peter@PicksPeppers.com",
+      "workPlace": "In Office",
+      "since": 1965
+    },
+    {
+      "firstName": "Kingston",
+      "lastName": "Collins",
+      "role": "SCRUM Master",
+      "pronouns": "He/Him",
+      "email": "UndaDaSea@gmail.com",
+      "workPlace": "Remote",
+      "since": 1902
+    },
+    {
+      "firstName": "Stanley",
+      "lastName": "Smith",
+      "role": "Designer",
+      "pronouns": "Ze/Zir",
+      "email": "AESTHETIC@email.com",
+      "workPlace": "In Office",
+      "since": 2004
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "Knight",
+      "role": "Alchemist / Sorcerer",
+      "pronouns": "He/Him",
+      "email": "SorcerersStone@rocks.com",
+      "workPlace": "Remote",
+      "since": 1335
+    },
+    {
+      "firstName": "David",
+      "lastName": "Drummer",
+      "role": "Asst. Regional Manager",
+      "pronouns": "He/Him",
+      "email": "Beets@SchruteFarms.com",
+      "workPlace": "In Office",
+      "since": 1977
+    },
+    {
+      "firstName": "Craig",
+      "lastName": "Carter",
+      "role": "Senior Software Engineer",
+      "pronouns": "He/Him",
+      "email": "Redrum@Creed.com",
+      "workPlace": "Remote",
+      "since": 1969
+    },
+    {
+      "firstName": "Toby",
+      "lastName": "Taylor",
+      "role": "Sr. HR Manager",
+      "pronouns": "He/Him",
+      "email": "HR@DunderMifflin.com",
+      "workPlace": "In Office",
+      "since": 1979
+    },
+    {
+      "firstName": "Moira",
+      "lastName": "Mitchell",
+      "role": "City Councilwoman",
+      "pronouns": "She/Her",
+      "email": "MoiraRose@me.com",
+      "workPlace": "Remote",
+      "since": 1956
+    },
+    {
+      "firstName": "David",
+      "lastName": "Donaldson",
+      "role": "Brand Manager",
+      "pronouns": "He/Him",
+      "email": "Hi@RoseApothecary.com",
+      "workPlace": "In Office",
+      "since": 1989
+    },
+    {
+      "firstName": "Roland",
+      "lastName": "Richardson",
+      "role": "Town Mayor",
+      "pronouns": "He/Him",
+      "email": "Info@SchittsCreek.com",
+      "workPlace": "In Office",
+      "since": 1964
+    }
+  ]

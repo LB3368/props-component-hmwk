@@ -1,0 +1,112 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width:100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.button-col{
+  display: inline-flex;
+  justify-content: center;
+}
+
+
+p {
+  font-size: 16px;
+}
+
+.button-row{
+width: 100%;
+height: 100px;
+background-color:  rgba(161, 191, 191, 0.845);
+align-items: center;
+margin: 0px !important;
+display: inline-flex;
+}
+
+.button-label {
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: 'Oswald', sans-serif;
+  color:white;
+  
+}
+
+.button {
+  min-width: 124px;
+  font-size: 18px;
+  background-color: rgb(255, 255, 255);
+  font-family: 'Staatliches', sans-serif;
+  color: rgb(109, 198, 198);
+  height: 45px;
+  margin: 5px;
+  box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+  border-radius: 3px;
+  border: none;
+}
+
+.button:hover {
+  background-color: rgb(33, 33, 33);
+  color: rgb(109, 198, 198);
+  border-color: white;
+  transition: 0.5s;
+  border: none;
+}
+
+.container{
+  width: 100%;
+}
+
+.grid{
+  margin: 50px;
+  margin-top: 50px;
+
+}
+
+.employee-cards{
+  display:flex;
+  flex-wrap: wrap;
+
+}
